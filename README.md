@@ -1,7 +1,25 @@
 ## Hi there 👋
-
-<!--
+My name is Nadiia.
+![Githup](https://img.shields.io/badge/Matomo-3152A0?style=for-the-badge&logo=Matomo&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 **Naoki-des/Naoki-des** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+
+<details>
+
+  <summary> Show more 
+  </summary>
+
+  1
+  2
+  3
+  
+</details>
+
+# Email
+:email:[Text me](mailto:din.nadine.din@gmail.com)
 
 Here are some ideas to get you started:
 
@@ -13,4 +31,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
